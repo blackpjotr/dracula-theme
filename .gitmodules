@@ -1072,3 +1072,60 @@
 [submodule "themes/labplot"]
 	path = themes/labplot
 	url = https://github.com/dracula/labplot.git
+[submodule "themes/rio-terminal"]
+	path = themes/rio-terminal
+	url = https://github.com/dracula/rio-terminal.git
+[submodule "themes/polybar"]
+	path = themes/polybar
+	url = https://github.com/dracula/polybar.git
+[submodule "themes/thumb-key"]
+	path = themes/thumb-key
+	url = https://github.com/dracula/thumb-key.git
+[submodule "themes/google-calendar"]
+	path = themes/google-calendar
+	url = https://github.com/dracula/google-calendar.git
+[submodule "themes/smartgit"]
+	path = themes/smartgit
+	url = https://github.com/dracula/smartgit.git
+[submodule "themes/fontforge"]
+	path = themes/fontforge
+	url = https://github.com/dracula/fontforge.git
+[submodule "themes/chatterino"]
+	path = themes/chatterino
+	url = https://github.com/dracula/chatterino.git
+[submodule "themes/gkrellm"]
+	path = themes/gkrellm
+	url = https://github.com/dracula/gkrellm.git
+[submodule "themes/adventofcode"]
+	path = themes/adventofcode
+	url = https://github.com/dracula/adventofcode.git
+[submodule "themes/papirus-folders"]
+	path = themes/papirus-folders
+	url = https://github.com/dracula/papirus-folders.git
+[submodule "themes/tut"]
+	path = themes/tut
+	url = https://github.com/dracula/tut.git
+[submodule "themes/homepage"]
+	path = themes/homepage
+	url = https://github.com/dracula/homepage.git
+[submodule "themes/lichess"]
+	path = themes/lichess
+	url = https://github.com/dracula/lichess.git
+[submodule "themes/stirling-pdf"]
+	path = themes/stirling-pdf
+	url = https://github.com/dracula/stirling-pdf.git
+[submodule "themes/heroic-games-launcher"]
+	path = themes/heroic-games-launcher
+	url = https://github.com/dracula/heroic-games-launcher.git
+[submodule "themes/duolingo"]
+	path = themes/duolingo
+	url = https://github.com/dracula/duolingo.git
+[submodule "themes/prompt"]
+	path = themes/prompt
+	url = https://github.com/dracula/prompt.git
+[submodule "themes/zed"]
+	path = themes/zed
+	url = https://github.com/dracula/zed.git
+[submodule "themes/bookwyrm"]
+	path = themes/bookwyrm
+	url = https://github.com/dracula/bookwyrm.git
